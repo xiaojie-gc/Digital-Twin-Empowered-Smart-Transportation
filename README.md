@@ -12,3 +12,5 @@
 10. How Digital Twin Concept Supports Internal Transport Systems—Literature Review
 11. Resilience towarded Digital Twins to improve the adaptability of transportation systems
 12. Smart Cities with Digital Twin Systems for Disaster Management
+
+Edge-Computing Video Analytics for Real-Time Traffic Monitoring in a Smart City
